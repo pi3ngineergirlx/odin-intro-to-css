@@ -1,6 +1,10 @@
 .header  {
+  /* font */
   font-family: 'Courier New', sans-serif;
+  /* colors */
   background: papayawhip;
+  /* layout */
+  padding: 8px;
   /* flexbox */
   display: flex;
   flex-direction: row;
