@@ -17,6 +17,7 @@ img {
   display: flex;
   flex-direction: column;
   justify-content: center;
+  align-items: center;
   gap: 32px;
   margin-bottom: 64px; /* space above footer */
 }
