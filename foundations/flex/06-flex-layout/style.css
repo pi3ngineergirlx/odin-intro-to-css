@@ -25,6 +25,12 @@ input {
   width: 400px;
 }
 
+.header, .footer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
 ul {
   list-style-type: none;;
 }
