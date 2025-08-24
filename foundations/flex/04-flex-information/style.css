@@ -27,6 +27,11 @@ img {
   align-items: center;
 }
 
+.plant-img {
+  display: flex;
+  flex-direction: row;
+}
+
 /* do not edit this footer */
 .footer {
   position: fixed;
