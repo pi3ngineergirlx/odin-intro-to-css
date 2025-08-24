@@ -34,6 +34,11 @@ body {
   justify-content: space-between;
 }
 
+.header {
+  font-weight: bold;
+  font-size: 20px;
+}
+
 .icon {
   color: royalblue;
   font-size: 26px;
