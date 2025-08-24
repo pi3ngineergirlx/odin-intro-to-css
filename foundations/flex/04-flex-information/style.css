@@ -24,11 +24,6 @@ img {
   text-align: center;
 }
 
-.container {
-  display: flex;
-  justify-content: center;
-}
-
 .plants {
   display: flex;
   flex-direction: row;
