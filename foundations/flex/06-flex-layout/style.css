@@ -31,6 +31,10 @@ input {
   justify-content: space-between;
 }
 
+.footer {
+  background-color: #dadada;
+}
+
 ul {
   list-style-type: none;;
 }
