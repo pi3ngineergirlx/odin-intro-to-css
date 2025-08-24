@@ -35,6 +35,12 @@ input {
   background-color: #dadada;
 }
 
+.left-links, .right-links {
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+}
+
 ul {
   list-style-type: none;;
 }
