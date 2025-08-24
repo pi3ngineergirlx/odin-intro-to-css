@@ -13,7 +13,7 @@ img {
   text-align: center;
 }
 
-.info-row {
+.info {
   display: flex;
   flex-direction: row;
   justify-content: center;
