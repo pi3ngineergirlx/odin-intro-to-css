@@ -29,7 +29,7 @@ img {
 .plants {
   display: flex;
   flex-direction: row;
-  gap: 32px;
+  gap: 52px;
   justify-content: space-evenly;
 }
 
