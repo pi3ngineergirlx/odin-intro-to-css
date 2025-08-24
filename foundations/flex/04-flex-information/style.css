@@ -28,6 +28,19 @@ img {
   justify-content: center;
 }
 
+.plants {
+  display: flex;
+  flex-direction: row;
+  gap: 32px;
+  justify-content: space-evenly;
+}
+
+.plant-block {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
 /* do not edit this footer */
 .footer {
   position: fixed;
