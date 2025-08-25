@@ -6,7 +6,7 @@ body {
 
 .header {
   /* layout */
-  height: 72px;
+  padding: 16px;
   /* font */
   font-size: 32px;
   font-weight: 900;
