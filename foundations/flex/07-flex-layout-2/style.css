@@ -39,6 +39,12 @@ body {
   font-size: 24px;
 }
 
+.cards {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
 .card {
   /* border and shadow */
   border: 1px solid #eee;
