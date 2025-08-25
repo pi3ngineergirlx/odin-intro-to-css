@@ -5,7 +5,12 @@ body {
 }
 
 .header {
+  /* layout */
   height: 72px;
+  /* font */
+  font-size: 32px;
+  font-weight: 900;
+  /* colors */
   background: darkmagenta;
   color: white;
 }
