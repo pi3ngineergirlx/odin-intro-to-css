@@ -21,9 +21,13 @@ body {
 }
 
 .sidebar {
+  /* layout */
   width: 300px;
-  background: royalblue;
+  padding: 16px;
   box-sizing: border-box;
+  /* colors */
+  background: royalblue;
+  /* flexbox */
   display: flex;
   flex-shrink: 0;
 }
