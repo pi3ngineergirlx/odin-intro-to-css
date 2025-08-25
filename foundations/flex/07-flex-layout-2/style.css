@@ -37,7 +37,13 @@ body {
 }
 
 .footer {
+  /* layout */
   height: 72px;
+  /* flexbox */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  /* colors */
   background: #eee;
   color: darkmagenta;
 }
