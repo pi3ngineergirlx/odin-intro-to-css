@@ -38,10 +38,13 @@ body {
 }
 
 .card {
+  /* border and shadow */
   border: 1px solid #eee;
-  box-shadow: 2px 4px 16px rgba(0,0,0,.06);
   border-radius: 4px;
+  box-shadow: 2px 4px 16px rgba(0,0,0,.06);
+  /* layout */
   margin: 48px;
+  width: 300px;
 }
 
 .footer {
